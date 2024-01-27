@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 <div>
-  <a href="https://github.com/murilo-figueiredo">
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-figueiredo)](https://github.com/murilo-figueiredo/github-readme-stats)">
+  <a href="https://github.com/murilo-figueiredo"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-figueiredo&layout=compact&langs_count=6&theme=tokyonight" height="180em">
 </div>
     
 <div style="display: inline_block"><br>
