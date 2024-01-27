@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=murilo-figueiredo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-figueiredo&layout=compact&langs_count=6&theme=tokyonight&hide=asp.net" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-figueiredo&layout=compact&langs_count=6&theme=tokyonight&hide=asp.net,shell" height="180em">
 </div>
     
 <div style="display: inline_block"><br>
