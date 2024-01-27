@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/murilo-figueiredo">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-figueiredo)](https://github.com/murilo-figueiredo/github-readme-stats)
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-figueiredo)](https://github.com/murilo-figueiredo/github-readme-stats)">
 </div>
     
 <div style="display: inline_block"><br>
