@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+# Bem-vindo(a) ao meu perfil 😃
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=murilo-figueiredo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em">
